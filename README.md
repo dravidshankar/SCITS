@@ -17,4 +17,4 @@ Google Colab Link for Python:https://colab.research.google.com/drive/1joupk-gVq7
   2. Paste the url in the address bar: https://azure.microsoft.com/en-in/free/students
   3. Create one new Microsoft account using your outlook or gmail
   4. Use college mail id to verify
-Contact for issues related with Azure students subscription https://azure.microsoft.com/en-us/contact/#contact-sales
+  5. Contact for issues related with Azure students subscription https://azure.microsoft.com/en-us/contact/#contact-sales
