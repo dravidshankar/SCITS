@@ -19,3 +19,6 @@ Google Colab Link for Python:https://colab.research.google.com/drive/1joupk-gVq7
   4. Use college mail id to verify
   5. Log on to portal.azure.com and check the subscription
   6. Contact for issues related with Azure students subscription https://azure.microsoft.com/en-us/contact/#contact-sales
+
+## AI 900: Azure AI Fundamentals  Study Materials
+https://learn.microsoft.com/en-us/certifications/exams/ai-900/
