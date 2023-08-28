@@ -12,6 +12,8 @@
 
 Google Colab Link for Python:https://colab.research.google.com/drive/1joupk-gVq7pSY99bzi40vxqijQ6T2-ka?usp=sharing
 
+Google Colab Link for Python for Datascience: https://colab.research.google.com/drive/1BSZT63F19uZYMXzIwafnlTiCS66I387F?usp=sharing
+
 ## Azure Student Account Creation Steps:
   1. Open a browser in an incognito mode
   2. Paste the url in the address bar: https://azure.microsoft.com/en-in/free/students
