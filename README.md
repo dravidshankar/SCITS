@@ -22,3 +22,16 @@ Google Colab Link for Python:https://colab.research.google.com/drive/1joupk-gVq7
 
 ## AI 900: Azure AI Fundamentals  Study Materials
 https://learn.microsoft.com/en-us/certifications/exams/ai-900/
+
+Regression Model using Azure Machine Learning Designer:
+
+https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02a-create-regression-model.html
+
+Classification Model using Azure Machine Learning Designer:
+
+https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02b-create-classification-model.html
+
+Classification Model using Azure Machine Learning Designer:
+
+https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-create-clustering-model.html
+
