@@ -54,3 +54,5 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-creat
   https://learn.microsoft.com/en-us/training/paths/process-translate-text-azure-cognitive-services/
 
   Analyze text Lab: https://learn.microsoft.com/en-us/training/modules/extract-insights-text-with-text-analytics-service/8-exercise-analyze-text
+
+  Lab Environment Setup: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/00-setup.html
