@@ -29,13 +29,16 @@ Regression Model using Azure Machine Learning Designer:
 
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02a-create-regression-model.html
 
-Evaluation Metrics for Regression Problem: https://github.com/dravidshankar/SCITS/blob/main/Regression%20Problem.png
+Evaluation Metrics for a Regression Problem: https://github.com/dravidshankar/SCITS/blob/main/Regression%20Problem.png
 
 Classification Model using Azure Machine Learning Designer:
 
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02b-create-classification-model.html
 
+Evaluation Metrics for a Classification Problem: https://github.com/dravidshankar/SCITS/blob/main/Classification%20Problem.png
+
 Classification Model using Azure Machine Learning Designer:
 
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-create-clustering-model.html
 
+Evaluation Metrics for a Clustering Problem: https://github.com/dravidshankar/SCITS/blob/main/Clustering%20Problem.png
