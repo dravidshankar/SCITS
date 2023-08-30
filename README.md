@@ -45,6 +45,10 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-creat
 
   ## AI 102: Azure AI Engineer Associate
   
+  Cognitive service: https://cog-ravi-scits.cognitiveservices.azure.com/
+  
+  Key: 7a0fd1d72eec4c3cb14703072ad56677
+  
   Process and translate text with Azure AI Services
   
   https://learn.microsoft.com/en-us/training/paths/process-translate-text-azure-cognitive-services/
