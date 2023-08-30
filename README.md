@@ -42,3 +42,11 @@ Classification Model using Azure Machine Learning Designer:
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-create-clustering-model.html
 
   Evaluation Metrics for a Clustering Problem: https://github.com/dravidshankar/SCITS/blob/main/Clustering%20Problem.png
+
+  ## AI 102: Azure AI Engineer Associate
+  
+  Process and translate text with Azure AI Services
+  
+  https://learn.microsoft.com/en-us/training/paths/process-translate-text-azure-cognitive-services/
+
+  Analyze text Lab: https://learn.microsoft.com/en-us/training/modules/extract-insights-text-with-text-analytics-service/8-exercise-analyze-text
