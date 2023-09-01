@@ -58,3 +58,5 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-creat
   Lab Environment Setup: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/00-setup.html
   
   Analyze text Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/05-analyze-text.html
+
+  Translate Text Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/08-translate-speech.html
