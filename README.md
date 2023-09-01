@@ -45,7 +45,9 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-creat
 
   ## AI 102: Azure AI Engineer Associate
   
-  Cognitive service: https://cog-ravi-scits.cognitiveservices.azure.com/
+  Lab Environment Setup: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/00-setup.html
+
+  Cognitive service Endpoint: https://cog-ravi-scits.cognitiveservices.azure.com/
   
   Key: 7a0fd1d72eec4c3cb14703072ad56677
   
@@ -55,7 +57,6 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-creat
 
   Analyze text Lab(Virtual Machine): https://learn.microsoft.com/en-us/training/modules/extract-insights-text-with-text-analytics-service/8-exercise-analyze-text
 
-  Lab Environment Setup: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/00-setup.html
   
   Analyze text Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/05-analyze-text.html
 
