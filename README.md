@@ -50,6 +50,8 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-creat
   Cognitive service Endpoint: https://cog-ravi-scits.cognitiveservices.azure.com/
   
   Key: 7a0fd1d72eec4c3cb14703072ad56677
+
+  Location: eastus
   
   Process and translate text with Azure AI Services
   
