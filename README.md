@@ -53,7 +53,7 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-creat
 
   Location: eastus
   
-  Process and translate text with Azure AI Services
+  ## Process and translate text with Azure AI Services
   
   https://learn.microsoft.com/en-us/training/paths/process-translate-text-azure-cognitive-services/
 
@@ -63,3 +63,7 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-creat
   Analyze text Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/05-analyze-text.html
 
   Translate Text Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/06-translate-text.html
+
+  ## Process and Translate Speech with Azure AI Speech Services
+  
+  https://learn.microsoft.com/en-us/training/paths/process-translate-speech-azure-cognitive-speech-services/
