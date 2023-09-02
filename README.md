@@ -68,6 +68,14 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-creat
   
   https://learn.microsoft.com/en-us/training/paths/process-translate-speech-azure-cognitive-speech-services/
 
+  Recognize and Synthesize Speech Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/07-speech.html 
+
+  Translate Speech Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/08-translate-speech.html
+
   ## Create a Language Understanding solution with Azure AI Language
 
   https://learn.microsoft.com/en-us/training/paths/create-language-solution-azure-cognitive-services/
+
+  Create a language understanding model with the Language service Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/09b-language-understanding-(preview).html
+
+  Create a Language Service Client Application Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/10b-language-understanding-client-(preview).html 
