@@ -86,3 +86,9 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-creat
   https://learn.microsoft.com/en-us/training/paths/build-qna-solution/
 
   Create a Question Answering Solution Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/12-qna-maker.html
+
+## Create conversational AI solutions
+
+https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/14-bot-composer.html
+
+Create a Bot with Bot Framework Composer Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/14-bot-composer.html
