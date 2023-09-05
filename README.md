@@ -79,3 +79,10 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-creat
   Create a language understanding model with the Language service Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/09b-language-understanding-(preview).html
 
   Create a Language Service Client Application Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/10b-language-understanding-client-(preview).html 
+
+
+  ## Build a question answering solution
+
+  https://learn.microsoft.com/en-us/training/paths/build-qna-solution/
+
+  Create a Question Answering Solution Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/12-qna-maker.html
