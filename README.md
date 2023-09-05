@@ -92,3 +92,5 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-creat
 https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/14-bot-composer.html
 
 Create a Bot with Bot Framework Composer Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/14-bot-composer.html
+
+Openweathermap API key: 2dee252ddd4a55f5dc857405f20d2a41
