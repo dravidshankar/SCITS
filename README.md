@@ -97,8 +97,12 @@ Create a Bot with Bot Framework Composer Lab: https://microsoftlearning.github.i
 
 Openweathermap API key: 2dee252ddd4a55f5dc857405f20d2a41
 
-Create computer vision solutions with Azure AI Vision
+## Create computer vision solutions with Azure AI Vision
+
+Classify images : https://learn.microsoft.com/en-us/training/modules/classify-images/
 
 Classify Images with Azure AI Custom Vision Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/17-image-classification.html
+
+Detect objects in images: https://learn.microsoft.com/en-us/training/modules/detect-objects-images/
 
 Detect Objects in Images with Custom Vision Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/18-object-detection.html
