@@ -89,7 +89,9 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-creat
 
 ## Create conversational AI solutions
 
-Create a Bot with Bot Framework Composer Virtual Lab link: https://learn.microsoft.com/en-us/training/modules/create-bot-with-bot-framework-composer/7-exercise-create-a-bot?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.create-conversational-ai-solutions
+https://learn.microsoft.com/en-us/training/paths/create-conversational-ai-solutions/
+
+Create a Bot with the Bot Framework SDK Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/13-bot-framework.html
 
 Create a Bot with Bot Framework Composer Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/14-bot-composer.html
 
