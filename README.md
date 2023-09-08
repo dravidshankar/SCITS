@@ -106,3 +106,7 @@ Classify Images with Azure AI Custom Vision Lab: https://microsoftlearning.githu
 Detect objects in images: https://learn.microsoft.com/en-us/training/modules/detect-objects-images/
 
 Detect Objects in Images with Custom Vision Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/18-object-detection.html
+
+Analyze images: https://learn.microsoft.com/en-us/training/modules/analyze-images/
+
+Analyze Images with Azure AI Vision Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/15-computer-vision.html
