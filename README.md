@@ -115,3 +115,8 @@ Analyze video: https://learn.microsoft.com/en-us/training/modules/analyze-video/
 
 Analyze Video with Video Analyzer Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/16-video-indexer.html
 
+
+Detect, analyze, and recognize faces: https://learn.microsoft.com/en-us/training/modules/detect-analyze-recognize-faces/
+
+Detect and Analyze Faces: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/19-face-service.html
+
