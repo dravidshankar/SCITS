@@ -99,14 +99,6 @@ Openweathermap API key: 2dee252ddd4a55f5dc857405f20d2a41
 
 ## Create computer vision solutions with Azure AI Vision
 
-Classify images : https://learn.microsoft.com/en-us/training/modules/classify-images/
-
-Classify Images with Azure AI Custom Vision Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/17-image-classification.html
-
-Detect objects in images: https://learn.microsoft.com/en-us/training/modules/detect-objects-images/
-
-Detect Objects in Images with Custom Vision Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/18-object-detection.html
-
 Analyze images: https://learn.microsoft.com/en-us/training/modules/analyze-images/
 
 Analyze Images with Azure AI Vision Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/15-computer-vision.html
@@ -115,8 +107,25 @@ Analyze video: https://learn.microsoft.com/en-us/training/modules/analyze-video/
 
 Analyze Video with Video Analyzer Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/16-video-indexer.html
 
+Classify images : https://learn.microsoft.com/en-us/training/modules/classify-images/
+
+Classify Images with Azure AI Custom Vision Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/17-image-classification.html
+
+Detect objects in images: https://learn.microsoft.com/en-us/training/modules/detect-objects-images/
+
+Detect Objects in Images with Custom Vision Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/18-object-detection.html
+
+
 
 Detect, analyze, and recognize faces: https://learn.microsoft.com/en-us/training/modules/detect-analyze-recognize-faces/
 
 Detect and Analyze Faces Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/19-face-service.html
 
+
+## Extract text from images and documents
+
+https://learn.microsoft.com/en-us/training/paths/extract-text-from-images-documents/
+
+Read Text in Images Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/21-form-recognizer.html
+
+Extract Data from Forms Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/21-form-recognizer.html
