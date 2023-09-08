@@ -113,5 +113,5 @@ Analyze Images with Azure AI Vision Lab: https://microsoftlearning.github.io/AI-
 
 Analyze video: https://learn.microsoft.com/en-us/training/modules/analyze-video/
 
-Analyze Video with Video Analyzer Lab: [https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/15-computer-vision.html](https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/16-video-indexer.html)https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/16-video-indexer.html
+Analyze Video with Video Analyzer Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/16-video-indexer.html
 
