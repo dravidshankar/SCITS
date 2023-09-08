@@ -126,6 +126,6 @@ Detect and Analyze Faces Lab: https://microsoftlearning.github.io/AI-102-AIEngin
 
 https://learn.microsoft.com/en-us/training/paths/extract-text-from-images-documents/
 
-Read Text in Images Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/21-form-recognizer.html
+Read Text in Images Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/20-ocr.html
 
 Extract Data from Forms Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/21-form-recognizer.html
