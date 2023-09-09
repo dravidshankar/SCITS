@@ -129,3 +129,13 @@ https://learn.microsoft.com/en-us/training/paths/extract-text-from-images-docume
 Read Text in Images Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/20-ocr.html
 
 Extract Data from Forms Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/21-form-recognizer.html
+
+## Implement knowledge mining with Azure Cognitive Search
+
+https://learn.microsoft.com/en-us/training/paths/implement-knowledge-mining-azure-cognitive-search/
+
+Create an Azure Cognitive Search solution Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/22-azure-search.html
+
+Create a Custom Skill for Azure Cognitive Search Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/23-search-skills.html
+
+Create a Knowledge Store with Azure Cognitive Search Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/24-knowledge-store.html
