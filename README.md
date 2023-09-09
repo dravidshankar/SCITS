@@ -141,6 +141,9 @@ Create a Custom Skill for Azure Cognitive Search Lab: https://microsoftlearning.
 Create a Knowledge Store with Azure Cognitive Search Lab: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/24-knowledge-store.html
 
 ## Storage Account Details:
+
 Name : storage9ict9scits
+
 Key: WgLAnC69eBqNpdCOxHTFFf9nYCqy5wIOuGkTZ8kE9WIoNr1QIKwWW6wAxsqWoN/0KLpPU2YeV4mk+ASt/xS3JQ==
+
 Connection String: WgLAnC69eBqNpdCOxHTFFf9nYCqy5wIOuGkTZ8kE9WIoNr1QIKwWW6wAxsqWoN/0KLpPU2YeV4mk+ASt/xS3JQ==
